@@ -8,14 +8,14 @@
 <hr>
 </div>
 
-## Installation
+<!--## Installation
 ### Automatic (Recommended)
 Run
-```batch
+```powershell
 iwr -useb "https://spacetheme.de/installer.ps1" | iex
 ```
 
-### Manual
+### Manual-->
 
 ## Themes
 `📅 Planed`, `🎨 Recolor only`, `🔴 Alpha`
